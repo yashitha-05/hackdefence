@@ -31,6 +31,7 @@ Optimizer: AdamW
 The dataset provided by Duality AI is expected in the following format:
 
 Offroad_Segmentation_Training_Dataset/
+
 ├── train/
 │   ├── Color_Images/
 │   └── Segmentation/
