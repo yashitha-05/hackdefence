@@ -32,13 +32,13 @@ The dataset provided by Duality AI is expected in the following format:
 
 Offroad_Segmentation_Training_Dataset/
 ├── train/
-│   ├── Color_Images/
-│   └── Segmentation/
+│ ├── Color_Images/
+│ └── Segmentation/
 ├── val/
-│   ├── Color_Images/
-│   └── Segmentation/
+│ ├── Color_Images/
+│ └── Segmentation/
 └── testImages/
-    └── Color_Images/
+└── Color_Images/
 
 ⚠️ Important:
 
