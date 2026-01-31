@@ -1,0 +1,12 @@
+# Dataset and outputs (local / large)
+Offroad_Segmentation_Training_Dataset/
+Offroad_Segmentation_testImages/
+predictions/
+*.pth
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
